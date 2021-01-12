@@ -1,0 +1,9 @@
+D:\PRIVATE\GitHub\MISA.Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.Entity\bin\Debug\netcoreapp3.1\MISA.Entity.deps.json
+D:\PRIVATE\GitHub\MISA.Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.Entity\bin\Debug\netcoreapp3.1\MISA.Entity.dll
+D:\PRIVATE\GitHub\MISA.Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.Entity\bin\Debug\netcoreapp3.1\MISA.Entity.pdb
+D:\PRIVATE\GitHub\MISA.Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.Entity\obj\Debug\netcoreapp3.1\MISA.Entity.csprojAssemblyReference.cache
+D:\PRIVATE\GitHub\MISA.Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.Entity\obj\Debug\netcoreapp3.1\MISA.Entity.AssemblyInfoInputs.cache
+D:\PRIVATE\GitHub\MISA.Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.Entity\obj\Debug\netcoreapp3.1\MISA.Entity.AssemblyInfo.cs
+D:\PRIVATE\GitHub\MISA.Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.Entity\obj\Debug\netcoreapp3.1\MISA.Entity.csproj.CoreCompileInputs.cache
+D:\PRIVATE\GitHub\MISA.Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.Entity\obj\Debug\netcoreapp3.1\MISA.Entity.dll
+D:\PRIVATE\GitHub\MISA.Fresher102020\NVManh\MISA.CukCuk\MISA.CukCuk\MISA.Entity\obj\Debug\netcoreapp3.1\MISA.Entity.pdb
